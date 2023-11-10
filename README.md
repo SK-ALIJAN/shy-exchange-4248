@@ -1,5 +1,6 @@
 
-## ✪ Blueberry.com
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&random=false&width=435&lines=Hi+!+i+am+Sk+Alijan;This+is+a+collabrotative+project++%2C;Blueberry+%2C+built+in+4+days+;by+3+developers)](https://git.io/typing-svg)
+<br>
 Blueberry is a dynamic e-commerce website that offers a wide range of high-quality products across various categories. With its clean and user-friendly interface, it's easy to browse through the products and find exactly what you need. Discover a world of endless shopping possibilities at our e-commerce store! with Blueberry . From fashion and beauty to home, we've got everything you need at our e-commerce store. <br>
 <p align="center"><img src="https://github.com/SK-ALIJAN/Blueberry.com/assets/106768235/0c35fcc1-c88a-4a38-9290-9f9b0b6e4190"></p> <br>
 
